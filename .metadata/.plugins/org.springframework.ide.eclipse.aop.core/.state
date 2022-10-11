@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootJwtToken"/>
+<aop-project name="bjit_erp_system"/>
+<aop-project name="SpringRestProject"/>
+<aop-project name="SpringSecurity"/>
+<aop-project name="SpringBootJpaAmigosecode"/>
+<aop-project name="springboot-integrationtest-master"/>
+<aop-project name="spring-rest-service"/>
+<aop-project name="erp"/>
+<aop-project name="MutipleViews1"/>
+</aop-reference-model>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home Page</title>
+</head>
+<body>
+	<h1 th:text="${msg}"></h1>
+	<h1>Employee Details:</h1>
+	<form action="addEmployee" method="post">
+	<h3>Employee Name: </h3>
+	<input type="text" name="name">
+	<h3>Employee ID: </h3>
+	<input type="text" name="id">
+	<br>
+	<input type="submit" value="Submit">
+	</form>
+	
+</body>
+</html>
